@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/bethehero.svg" width="200px" />
+    <img src="github/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="github/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
